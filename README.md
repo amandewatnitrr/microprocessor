@@ -8,3 +8,6 @@
 
 ## Subtraction of 2 16-bit number
 <img src="https://github.com/amandewatnitrr/microprocessor/blob/main/github%20img/subtraction-2-16bit-number.png" width="100%">
+
+## Addition of 2 16-bit number
+<img src="https://github.com/amandewatnitrr/microprocessor/blob/main/github%20img/add-2-16bit-number.png" width="100%">
