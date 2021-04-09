@@ -15,3 +15,5 @@
 ## Dividing two 8-bit numbers
 <img src="https://github.com/amandewatnitrr/microprocessor-8051/blob/main/github%20img/divide-2-8bit-number.png" width="100%">
 
+## Multiplying two 8-bit numbers
+<img src="https://github.com/amandewatnitrr/microprocessor-8051/blob/main/github%20img/multiply-2-8bit-number.png" width="100%">
