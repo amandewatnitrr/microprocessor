@@ -17,3 +17,6 @@
 
 ## Multiplying two 8-bit numbers
 <img src="https://github.com/amandewatnitrr/microprocessor-8051/blob/main/github%20img/multiply-2-8bit-number.png" width="100%">
+
+## One's Complement
+<img src="https://github.com/amandewatnitrr/microprocessor-8051/blob/main/github%20img/ones_complement.png" width="100%">
