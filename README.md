@@ -20,3 +20,6 @@
 
 ## One's Complement
 <img src="https://github.com/amandewatnitrr/microprocessor-8051/blob/main/github%20img/ones_complement.png" width="100%">
+
+## Two's Complement
+<img src="https://github.com/amandewatnitrr/microprocessor-8051/blob/main/github%20img/twos_complement.png" width="100%">
