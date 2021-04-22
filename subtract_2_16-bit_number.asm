@@ -12,6 +12,7 @@ MOV 40H, R1 ; Store result in given memory location
 END
 
 /*Another Method*/
+
 ORG 0000H
 CLR C	  		;MAKE CY=0
 MOV A,#20H		;LOWER BYTE OF OPERAND 1 IN A (replace 20 with lower operand of your subtractend)
