@@ -1,8 +1,8 @@
 ORG 000H
-MOV R1, #40H
-MOV R2, #30H
-MOV A, R1
-SUBB A, R2
+MOV R1, #40H ;Move Hexadecimal value 40 to R1 Register
+MOV R2, #30H ;Move Hexadecimal value 40 to R1 Register
+MOV A, R1 ;Move Subtractend to Accumulator
+SUBB A, R2 ;Subtract Subtractor from the Subtractend
 END
 
 /*Another method*/
